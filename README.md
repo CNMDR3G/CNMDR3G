@@ -1,14 +1,15 @@
 # CNMDR3G
-CN MonaD.ReadeR Reading Group
 
-中文 Monad.Reader 阅读小组
+中文 Monad.Reader 阅读小组 (CN MonaD.ReadeR Reading Group)
 
-[详情](https://github.com/CNMDR3G/CNMDR3G/wiki)
+* [小組详情](https://github.com/CNMDR3G/CNMDR3G/wiki)
+* 小組活動日程 （Google Calendar）：[ICAL](https://www.google.com/calendar/ical/tqm2vj2iltsei68cn6bucq6k68%40group.calendar.google.com/public/basic.ics)
 
-小組活動日程 （Google Calendar）：
-[HTML](https://www.google.com/calendar/embed?src=tqm2vj2iltsei68cn6bucq6k68%40group.calendar.google.com) ‧
-[ICAL](https://www.google.com/calendar/ical/tqm2vj2iltsei68cn6bucq6k68%40group.calendar.google.com/public/basic.ics) ‧
-[XML](https://www.google.com/calendar/feeds/tqm2vj2iltsei68cn6bucq6k68%40group.calendar.google.com/public/basic)
+## 本週 Topic (於 4 月 26 日更新)
+
+[MFlow, a continuation-based web framework without continuations](https://themonadreader.files.wordpress.com/2014/04/mflow.pdf)
+
+
 
 ## 关于 The Monad.Reader
 
