@@ -5,7 +5,7 @@
 * [小組详情](https://github.com/CNMDR3G/CNMDR3G/wiki)
 * 小組活動日程 （Google Calendar）：[ICAL](https://www.google.com/calendar/ical/tqm2vj2iltsei68cn6bucq6k68%40group.calendar.google.com/public/basic.ics)
 
-## 本週 Topic (於 4 月 26 日更新)
+## 本週 Topic (於 5 月 3 日更新)
 
 [Generalized Algebraic Data Types in Haskell](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
 
