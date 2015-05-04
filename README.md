@@ -7,7 +7,7 @@
 
 ## 本週 Topic (於 4 月 26 日更新)
 
-[MFlow, a continuation-based web framework without continuations](https://themonadreader.files.wordpress.com/2014/04/mflow.pdf)
+[Generalized Algebraic Data Types in Haskell](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
 
 
 
