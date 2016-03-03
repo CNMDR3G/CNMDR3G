@@ -1,5 +1,7 @@
 # CNMDR3G
 
+[![Join the chat at https://gitter.im/CNMDR3G/CNMDR3G](https://badges.gitter.im/CNMDR3G/CNMDR3G.svg)](https://gitter.im/CNMDR3G/CNMDR3G?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 中文 Monad.Reader 阅读小组 (CN MonaD.ReadeR Reading Group)
 
 * [小組详情](https://github.com/CNMDR3G/CNMDR3G/wiki)
